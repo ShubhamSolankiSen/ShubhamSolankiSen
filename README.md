@@ -22,16 +22,9 @@
 - ⚡ Fun fact *I am funny😅*
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://linkedin.com/in/ashutosh mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
-</p> -->
-<!-- <a href="https://github.com/ShubhamSolankiSen"><img
+
+<a href="https://github.com/ShubhamSolankiSen"><img
                 src="https://cdn.pixabay.com/photo/2021/09/11/12/17/github-6615451_960_720.png"></a>
                 
         <a href=" https://www.instagram.com/invites/contact/?i=rqigsyphrs8q&utm_content=o5obfif"><img
-                src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_960_720.jpg"></a> -->
-<h3 align="left">Languages and Tools:</h3>
-<!-- <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus
- -->
+                src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_960_720.jpg"></a> 
