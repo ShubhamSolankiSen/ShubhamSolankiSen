@@ -20,11 +20,3 @@
 👨‍💻 All of my projects are available ( Coming Soon ) 
 
 - ⚡ Fun fact *I am funny😅*
-
-<h3 align="left">Connect with me:</h3>
-
-<a href="https://github.com/ShubhamSolankiSen"><img
-                src="https://cdn.pixabay.com/photo/2021/09/11/12/17/github-6615451_960_720.png"></a>
-                
-        <a href=" https://www.instagram.com/invites/contact/?i=rqigsyphrs8q&utm_content=o5obfif"><img
-                src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_960_720.jpg"></a> 
