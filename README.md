@@ -1,4 +1,4 @@
-![logo](https://github.com/ShubhamSolankiSen/http://shubhamsolanki.mp/shubham.jpg)
+![logo](https://github.com/ShubhamSolankiSen/https://shubhamsolanki.mp/shubham.jpg)
 <h1 align="center">Hi 👋, I'm Shubham Solanki</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
