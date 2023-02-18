@@ -20,8 +20,8 @@
 👨‍💻 All of my projects are available ( Coming Soon ) 
 
 - ⚡ Fun fact *I am funny😅*
- -->
-<!--  ### Hii there <img src="https://github.com/CrazyIndianDeveloper/CrazyIndianDeveloper/blob/main/wavehand.gif" width="30px">  I'm Crazy Indian Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ----==>![Profile Views Counter](https://komarev.com/ghpvc/?username=CrazyIndianDeveloper&label=PROFILE+VIEWS&color=green) </pre>  - <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> --> -->
+
+  ### Hii there <img src="https://github.com/CrazyIndianDeveloper/CrazyIndianDeveloper/blob/main/wavehand.gif" width="30px">  I'm Crazy Indian Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
 <!-- 
@@ -31,12 +31,12 @@
  -->
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 	
-<!-- ### About Me : <img src="https://github.com/CrazyIndianDeveloper/Dust/blob/main/Sunglasses.gif" width="30px">
+### About Me : <img src="https://github.com/CrazyIndianDeveloper/Dust/blob/main/Sunglasses.gif" width="30px">
 
-I'm an student of **Computer Application**. I'm very passionate about making my own tools for **HTML, CSS, JAVASCRIPT,C++**. Some technologies I enjoy working with, include :`Java, CPP, JavaScript, C, CSS, HTML, Python.` I am also Studying **Cyber Security And Ethical Hacking**.I also Love Sharing my knowledge with others. I love **Mentoring Juniors**.
+I'm an student of **Computer Application**. I'm very passionate about making my own tools for **Hacking**. Some technologies I enjoy working with, include :`Java, CPP, JavaScript, C, CSS, HTML, Python.` I am also Studying **Cyber Security And Ethical Hacking**.I also Love Sharing my knowledge with others. I love **Mentoring Juniors**.
 
 
-<br /> -->
+<br />
 
 <!-- ## **Talking about Personal Stuffs:**<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> -->
 
