@@ -31,14 +31,14 @@
 
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 	
-### About Me : <img src="https://github.com/CrazyIndianDeveloper/Dust/blob/main/Sunglasses.gif" width="30px">
+<!-- ### About Me : <img src="https://github.com/CrazyIndianDeveloper/Dust/blob/main/Sunglasses.gif" width="30px">
 
-I'm an student of **Computer Application**. I'm very passionate about making my own tools for **Kali Linux,**. Some technologies I enjoy working with, include :`Java, CPP, JavaScript, C, CSS, HTML, Python.` I am also Studying **Cyber Security And Ethical Hacking**.I also Love Sharing my knowledge with others. I love **Mentoring Juniors**.
+I'm an student of **Computer Application**. I'm very passionate about making my own tools for **HTML, CSS, JAVASCRIPT,C++**. Some technologies I enjoy working with, include :`Java, CPP, JavaScript, C, CSS, HTML, Python.` I am also Studying **Cyber Security And Ethical Hacking**.I also Love Sharing my knowledge with others. I love **Mentoring Juniors**.
 
 
-<br />
+<br /> -->
 
-## **Talking about Personal Stuffs:**<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<!-- ## **Talking about Personal Stuffs:**<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> -->
 
 - 🌱 I’m currently learning **Computer Applications And Cyber Security**.	
 - 👯 I’m looking to collaborate on **College Project And Ethical Hacking** 🤝
@@ -64,23 +64,23 @@ I'm an student of **Computer Application**. I'm very passionate about making my 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <br/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazyindiandeveloper&layout=compact&theme=material-palenight" />
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazyindiandeveloper&layout=compact&theme=material-palenight" />
 
 
-<br/>
+<br/> -->
 
-<p><br/>&nbsp;<img align="center"[states] src="https://github-readme-stats.vercel.app/api?username=crazyindiandeveloper&show_icons=true&locale=en&show_owner=true" alt="crazyindiandeveloper	" /></p>
-
-## My Popular repositories
+<!-- <p><br/>&nbsp;<img align="center"[states] src="https://github-readme-stats.vercel.app/api?username=crazyindiandeveloper&show_icons=true&locale=en&show_owner=true" alt="crazyindiandeveloper	" /></p>
+ -->
+<!-- ## My Popular repositories
 <a href="https://github.com/crazyindiandeveloper/XeroSploit-Installer">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crazyindiandeveloper&repo=XeroSploit-Installer&theme=material-palenight" />
-</a>
+</a> -->
 
 
-<a href="https://github.com/CrazyIndianDeveloper/DesktopWatchV1.0">
+<!-- <a href="https://github.com/CrazyIndianDeveloper/DesktopWatchV1.0">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crazyindiandeveloper&repo=DesktopWatchV1.0&theme=material-palenight" />
 </a>
-<br />
+<br /> -->
 
 ## THANK YOU !  :sparkling_heart:  
 
