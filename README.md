@@ -24,11 +24,11 @@
  ### Hii there <img src="https://github.com/CrazyIndianDeveloper/CrazyIndianDeveloper/blob/main/wavehand.gif" width="30px">  I'm Crazy Indian Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ----==>![Profile Views Counter](https://komarev.com/ghpvc/?username=CrazyIndianDeveloper&label=PROFILE+VIEWS&color=green) </pre>  - <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> -->
 
 
-
+<!-- 
 <p align="center">
 	<a href="https://github.com/crazyindiandeveloper"><img src="https://img.shields.io/github/followers/crazyindiandeveloper.svg?label=GitHub&style=social" alt="GitHub" height="20"></a>
 </p>
-
+ -->
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 	
 <!-- ### About Me : <img src="https://github.com/CrazyIndianDeveloper/Dust/blob/main/Sunglasses.gif" width="30px">
@@ -44,8 +44,8 @@ I'm an student of **Computer Application**. I'm very passionate about making my 
 - 👯 I’m looking to collaborate on **College Project ** 🤝
 - 🤔 I’m looking for help with **Open-Source Contribution** :-)
 - 💬 Ask me about anything, I am happy to help.
-- ⚡️ [**Crazy Indian Developer**](https://www.youtube.com/channel/UCnij5U2Ic3PtpzCWmmydP7g?sub_confirmation=1) : My future Project which helps the community to better understand about various **Programming Languages ,Cyber Security and Hacking.** 
-- ⚡️ Crazy Indian Developer --> [**YouTube**](https://www.youtube.com/channel/UCnij5U2Ic3PtpzCWmmydP7g?sub_confirmation=1) **&** [**Instagram**](https://www.instagram.com/crazy_indian_developer/?hl=en)
+<!-- - ⚡️ [**Crazy Indian Developer**](https://www.youtube.com/channel/UCnij5U2Ic3PtpzCWmmydP7g?sub_confirmation=1) : My future Project which helps the community to better understand about various **Programming Languages **  -->
+<!-- - ⚡️ Crazy Indian Developer --> [**YouTube**](https://www.youtube.com/channel/UCnij5U2Ic3PtpzCWmmydP7g?sub_confirmation=1) **&** [**Instagram**](https://www.instagram.com/crazy_indian_developer/?hl=en) -->
 - 📫 How to reach me: [**Instagram**](shubham___sen_) - I just love meeting people here.
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!!</b> 😊</em>
 
