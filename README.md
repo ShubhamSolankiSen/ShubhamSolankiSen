@@ -38,15 +38,13 @@ I'm an student of **Computer Application**. I'm very passionate about making my 
 
 <br />
 
-<!-- ## **Talking about Personal Stuffs:**<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> -->
+## **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning ** HTML,CSS,JAVASCRIPT,C++**.	
 - 👯 I’m looking to collaborate on **College Project ** 🤝
 - 🤔 I’m looking for help with **Open-Source Contribution** :-)
-- 💬 Ask me about anything, I am happy to help.
-<!-- - ⚡️ [**Crazy Indian Developer**](https://www.youtube.com/channel/UCnij5U2Ic3PtpzCWmmydP7g?sub_confirmation=1) : My future Project which helps the community to better understand about various **Programming Languages **  -->
-<!-- - ⚡️ Crazy Indian Developer --> [**YouTube**](https://www.youtube.com/channel/UCnij5U2Ic3PtpzCWmmydP7g?sub_confirmation=1) **&** [**Instagram**](https://www.instagram.com/crazy_indian_developer/?hl=en) -->
-<!-- - 📫 How to reach me: [**Instagram**](shubham___sen_) - I just love meeting people here. -->
+- 💬 Ask me about anything, I am happy to help you**:
+- 📫 How to reach me: [**Instagram**](shubham___sen_) - I just love meeting people here.
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!!</b> 😊</em>
 
 
@@ -86,9 +84,6 @@ I'm an student of **Computer Application**. I'm very passionate about making my 
 
 
 
-<!--
-**CrazyIndianDeveloper/CrazyIndianDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--
 - 🔭 I’m currently working on ...
 Here are some ideas to get you started:
 
