@@ -21,14 +21,14 @@
 	
 ### About Me : <img src="https://github.com/CrazyIndianDeveloper/Dust/blob/main/Sunglasses.gif" width="30px">
 
-I'm an student of **Computer Application**. I'm very passionate about making my own tools for **Hacking**. Some technologies I enjoy working with, include :`Java, CPP, JavaScript, C, CSS, HTML, Python.` I am also Studying **Cyber Security And Ethical Hacking**.I also Love Sharing my knowledge with others. I love **Mentoring Juniors**.
+I'm an student of **Computer Science**. I'm very passionate about making my own tools for **Hacking**. Some technologies I enjoy working with, include :`Java, CPP, JavaScript, C, CSS, HTML, Python.` I am also Studying **Cyber Security And Ethical Hacking**.I also Love Sharing my knowledge with others. I love **Mentoring Juniors**.
 
 
 <br />
 
 ## **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning ** HTML,CSS,JAVASCRIPT,C++**.	
+- 🌱 I’m currently learning ** Java, PHP and DataBase and Networking**.	
 - 👯 I’m looking to collaborate on **College Project ** 🤝
 - 🤔 I’m looking for help with **Open-Source Contribution** :-)
 - 💬 Ask me about anything, I am happy to help you**:
