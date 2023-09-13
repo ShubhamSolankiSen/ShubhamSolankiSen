@@ -1,4 +1,4 @@
-<p align="center"> Hello World 🌏! 👋 <br> Myself <strong> <kbd>SHUBHAM SOLANKI </strong> <a href="https://priyansh.is-a.dev"> <img src="https://priyansh.pages.dev/c/emojis/verified.png" width="15" height="15"> </a></kbd> <br>  <strong> <ins>1st year B.C.A.</ins> </strong> student 😎🤏 <br> A passionate Software Engineer from India </p>
+<p align="center"> Hello World 🌏! 👋 <br> Myself <strong> <kbd>SHUBHAM SOLANKI </strong> <a href="https://priyansh.is-a.dev"> <img src="https://priyansh.pages.dev/c/emojis/verified.png" width="15" height="15"> </a></kbd> <br>  <strong> <ins>2nd year B.C.A.</ins> </strong> student 😎🤏 <br> A passionate Software Engineer from India </p>
 
 
 
